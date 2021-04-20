@@ -38,10 +38,13 @@
 메가스터디IT아카데미(신촌) | 2021. 04. ~ 재직 중 | 강사 (IT입시)
 유닛스터디코딩학원(대치,목동) | 2019. 05. ~ 재직 중 | 강사 (정보올림피아드, 인공지능)
 
-### 아무도 안궁금해 하는 학생회 이력
+### MISC
+
+![DetegiCE's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=martinok1103)
+
 
 <details>
-<summary>그래도 써보는 학생회 이력</summary>
+<summary>아무도 안궁금해 하는 학생회 이력 (열기)</summary>
 
 ### 과학영재학교 광주과학고등학교
 
