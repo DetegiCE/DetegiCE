@@ -16,7 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DetegiCE&layout=compact&langs_count=10)](https://github.com/DetegiCE)
 
 ![Python](https://img.shields.io/badge/Python-3775a9?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA-007386?style=flat-square&logo=JAVA&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E44E25?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F3E050?style=flat-square&logo=JavaScript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-304BDB?style=flat-square&logo=CSS3&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-285F86?style=flat-square&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3C5F8F?style=flat-square&logo=PostgreSQL&logoColor=white)
+
 ![Android](https://img.shields.io/badge/Android-A4CB3E?style=flat-square&logo=Android&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
 ### 배우고 싶은 것들
