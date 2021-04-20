@@ -41,7 +41,7 @@
 ### 아무도 안궁금해 하는 학생회 이력
 
 <details>
-<summary>OPEN</summary>
+<summary>그래도 써보는 학생회 이력</summary>
 
 ### 과학영재학교 광주과학고등학교
 
