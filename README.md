@@ -37,6 +37,7 @@
 
 직장 | 기간 | 담당
 :---|:---|:---
+<img src="https://ridicorp.com/wp-content/uploads/2021/01/ridi-new-logo.svg" height=15px> [리디 주식회사](https://ridicorp.com/) | 2021. 06. ~ 재식 중 | SRE팀 인프라 엔지니어
 <img src="http://megaitacademy.co.kr/html/images/itlogo.png" height=15px> [메가스터디IT아카데미(신촌)](http://megaitacademy.co.kr/) | 2021. 04. ~ 재직 중 | 강사 (Python, 엔트리)
 <img src="http://www.unitsoft.co.kr/sub/img/head_logo1.png" height=15px> [유닛스터디코딩학원(대치,목동)](http://www.unitsoft.co.kr/) | 2019. 05. ~ 재직 중 | 강사 (정보올림피아드, 이산수학, 인공지능)<br>AI 컨텐츠팀 팀장
 
