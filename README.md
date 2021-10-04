@@ -45,6 +45,16 @@
 
 ![DetegiCE's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=martinok1103)
 
+### 현재 진행중인 프로젝트
+
+- [Chunithm Rating App](https://github.com/DetegiCE/Chunithm-Rating-App): 아케이드 리듬게임 CHUNITHM 레이팅 계산 앱
+- [GorakuList](https://github.com/rainbow-flavor/GorakuList): 한국 오락실 지역/보유 게임 기반 검색하는 웹 사이트
+
+### 이전에 진행했던 프로젝트
+
+- [edy Auto Keeper](https://github.com/DetegiCE/edy-auto-keeper): 고려대학교 애기능동아리연합회 방역 안전지킴이 자동 배정 서비스
+- [My Military Counter](https://github.com/DetegiCE/my-military-counter): 간단한 D-Day 웹 사이트
+- [BOJ Voice](https://github.com/DetegiCE/BOJVoice): 알고리즘 문제해결 사이트 백준에서 정답 여부를 음성으로 알려주는 크롬 확장프로그램
 
 <details>
 <summary>아무도 안궁금해 하는 학생회 이력 (열기)</summary>
