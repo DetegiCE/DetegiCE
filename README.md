@@ -54,6 +54,7 @@
 
 - [edy Auto Keeper](https://github.com/DetegiCE/edy-auto-keeper): 고려대학교 애기능동아리연합회 방역 안전지킴이 자동 배정 서비스
 - [My Military Counter](https://github.com/DetegiCE/my-military-counter): 간단한 D-Day 웹 사이트
+- [Easy Youtube Thumbnail](https://github.com/DetegiCE/Easy-Youtube-Thumbnail): 기본 정보를 입력하면 간단한 유튜브 썸네일을 만들어주는 웹 사이트
 - [BOJ Voice](https://github.com/DetegiCE/BOJVoice): 알고리즘 문제해결 사이트 백준에서 정답 여부를 음성으로 알려주는 크롬 확장프로그램
 
 <details>
