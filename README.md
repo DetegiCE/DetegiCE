@@ -55,7 +55,11 @@
 
 ### MISC
 
+#### BOJ solved.ac Rank
+
 ![DetegiCE's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=martinok1103)
+
+#### BeatSaber Ranking
 
 [![](https://github-readme-score-saber.vercel.app/api?uid=76561198357821968)](https://scoresaber.com/u/76561198357821968)
 
