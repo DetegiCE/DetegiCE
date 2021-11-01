@@ -48,6 +48,7 @@
 
 ### 이전에 진행했던 프로젝트
 
+- [Github-Readme-ScoreSaber](https://github.com/DetegiCE/Github-Readme-ScoreSaber): 깃헙 리드미에 비트세이버 랭킹 (ScoreSaber) 카드를 띄워주는 서비스
 - [Easy Youtube Thumbnail](https://github.com/DetegiCE/Easy-Youtube-Thumbnail): 기본 정보를 입력하면 간단한 유튜브 썸네일을 만들어주는 웹 사이트
 - [edy Auto Keeper](https://github.com/DetegiCE/edy-auto-keeper): 고려대학교 애기능동아리연합회 방역 안전지킴이 자동 배정 서비스
 - [My Military Counter](https://github.com/DetegiCE/my-military-counter): 간단한 D-Day 웹 사이트
