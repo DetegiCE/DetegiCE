@@ -8,6 +8,8 @@
 
 [![Curriculum Vitae](https://img.shields.io/badge/%5B%20Curriculum%20Vitae%20|%20이력서%20%5D-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://suisensei.notion.site/CV-37c71c78aab54e718865851441f7a8bc)
 
+[새로 작성중인 페이지](https://sui.kr)
+
 ↑↑↑ 이력서 ↑↑↑
 
 [![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100007918114049)](https://www.facebook.com/profile.php?id=100007918114049) [![GMail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:martino1103@gmail.com)](mailto:martino1103@gmail.com) [![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03c75a?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/martinok1103)](https://blog.naver.com/martinok1103) ![Discord](https://img.shields.io/badge/DetegiCE%233368-7289DA?style=flat-square&logo=Discord&logoColor=white) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-KEGTtGEJCKwwVyZ1QCcjw?style=social)](https://www.youtube.com/channel/UC-KEGTtGEJCKwwVyZ1QCcjw)
