@@ -6,9 +6,7 @@
 
 ↓↓↓ 이력서 ↓↓↓
 
-[![Curriculum Vitae](https://img.shields.io/badge/%5B%20Curriculum%20Vitae%20|%20이력서%20%5D-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://suisensei.notion.site/CV-37c71c78aab54e718865851441f7a8bc)
-
-[새로 작성중인 페이지](https://sui.kr)
+[![Curriculum Vitae](https://img.shields.io/badge/%5B%20Curriculum%20Vitae%20|%20이력서%20%5D-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://suisensei.notion.site/CV-37c71c78aab54e718865851441f7a8bc](https://sui.kr))
 
 ↑↑↑ 이력서 ↑↑↑
 
